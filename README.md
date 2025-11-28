@@ -1,3 +1,4 @@
-<H1>Teste de Execução - Main</H1>
+<H1>Teste de Execução - Refatoração</H1>
 
-![Imagem do WhatsApp de 2025-11-28 à(s) 20 39 37_8cf4cacd](https://github.com/user-attachments/assets/713f6885-db41-4ebd-b974-14ec2130036a)
+<img width="1075" height="926" alt="image" src="https://github.com/user-attachments/assets/d49e8e07-7147-414b-aef0-fdd7cd0d61e6" />
+
